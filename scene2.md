@@ -8,7 +8,7 @@
 Press the green arrow to test the Smart Mower's code. Running over sprinkler heads and causing damage? It isn't looking too smart now! Let's make it Safe and Reliable by changing its code so that it checks for sprinkler heads BEFORE it starts cutting the grass.
 
 #### ~ tutorialhint 
-Remove the ``||hoc2023Objectives:cut grass||`` block with one of the other blocks in the tool box.
+Replace the ``||hoc2023Objectives:cut grass||`` block with one of the other blocks in the tool box.
 
 ```ghost
     hoc2023Objectives.scene2_GrassCut()
