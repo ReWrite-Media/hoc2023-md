@@ -34,5 +34,5 @@ while (hoc2023Disable.scene3_ObSearchForGarbage()) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts-ar
 ```

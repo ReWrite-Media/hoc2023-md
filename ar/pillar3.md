@@ -24,5 +24,5 @@ for (let i = 0; i < 3; i++ ) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts-ar
 ```

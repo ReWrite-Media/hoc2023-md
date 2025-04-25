@@ -19,5 +19,5 @@ hoc2023GreenAgent.scene5_GreenMatchAgent()
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts-ar
 ```
